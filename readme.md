@@ -6,3 +6,5 @@
 - how to add line before,after,top and bottom of the element
 - set background color to particular element
 
+[netlify ](https://crypto-landingsite.netlify.app/)
+
